@@ -13,4 +13,3 @@ d = a2 - a1
 
 result = a1 + (n - 1) * d
 print(f'a[{n}] = {result}')
-
